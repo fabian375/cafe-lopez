@@ -1,0 +1,62 @@
+h1
+{
+    text-align: center;
+    font-size: 44px;
+    color: #402d1c;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+body
+{
+    background-color: #a58045;
+    font-family: 'Oswald', sans-serif;
+}
+table{
+    color: #ffffff;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 70%;
+    background-color: #663300;
+    border-radius: 6.4px;
+    border-collapse:collapse ; 
+    border-spacing: 8px;
+}
+table tbody tr{
+  border-bottom: 1px solid #ff860d;
+}
+table thead tr{
+    border-bottom: 2.5px solid #ff860d;
+}
+table tfoot tr td{
+    color: #000000;
+}
+table th,td{
+    padding: 15px;
+    text-align: left;
+}
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+/*  
+table thead tr th
+{
+    background-color: #face7c;
+}
+table tbody tr td
+{
+    background-color: #face7c;
+    text-align: center;
+}
+.especiales
+{
+    text-align: left;
+    font-size: 15px;
+}
+tfoot
+{
+    font-size: 10px;
+}
+*/
+

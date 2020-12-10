@@ -1,0 +1,76 @@
+h1
+{
+    color:#402d1c;
+    font-size:40px;
+    font-weight:bold;
+    text-align:center
+
+}
+body 
+{
+    font-family: 'Oswald', sans-serif
+
+}
+
+h3
+{
+    color:#402d1c;
+    font-family:sans-serif;
+    font-weight:bold;
+    text-align:center;
+    background-color:#ffffff;
+    padding:10px 25px;
+
+}
+footer  
+{
+    Text-align: center;
+    color: #6d7754;
+    font-size: 14px  
+}
+.hero
+{
+    min-width:964px;
+    min-height: 422px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size:cover;
+    background-image:url("cooffeeshop01.jpg")
+}
+h2
+{
+    text-align: center;
+    background-color:#a58045;
+    padding: 3px 10px;
+    margin: 5px;
+    font-size: 28px;
+    color: white
+}
+h3 .menu
+{
+    text-decoration: none;
+    color: #a58045;
+}
+.menu:hover
+{
+    color: #b6812d;
+    border-bottom: 2px solid #b6812d;
+}
+nav ul li 
+{
+    list-style:none;
+    display: inline-block;
+}
+nav ul li a
+{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 50px;
+    color: #6d7754;
+}
+nav ul li a:hover
+{
+color: #000000;
+}
